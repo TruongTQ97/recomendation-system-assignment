@@ -2,7 +2,7 @@
 /**
  * Write a description of RaterDatabase here.
  * 
- * @author (your name) 
+ * @author (TruongTQ6)
  * @version (a version number or a date)
  */
 

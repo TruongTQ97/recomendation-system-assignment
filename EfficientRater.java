@@ -2,8 +2,8 @@
 /**
  * Write a description of class EfficientRater here.
  * 
- * @author (Bryan) 
- * @version (2018-01-31)
+ * @author (TruongTQ6)
+ * @version (2020-08-01)
  */
 
 import java.util.*;

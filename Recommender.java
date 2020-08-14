@@ -2,7 +2,7 @@
 /**
  * Write a description of Recommender here.
  * 
- * @author (your name) 
+ * @author (TruongTQ6)
  * @version (a version number or a date)
  */
 

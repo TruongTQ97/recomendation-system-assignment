@@ -6,7 +6,7 @@ import org.apache.commons.csv.*;
 /**
  * Write a description of MovieRunnerSimilarRatings here.
  * 
- * @author (your name) 
+ * @author (TruongTQ6)
  * @version (a version number or a date)
  */
 public class MovieRunnerSimilarRatings {

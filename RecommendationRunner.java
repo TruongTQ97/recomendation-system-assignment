@@ -1,9 +1,8 @@
 /**
  * Write a description of RecommendationRunner here.
  * 
- * @author (your name) 
+ * @author (TruongTQ6)
  * @version (a version number or a date)
- * extrance link:http://www.dukelearntoprogram.com/capstone/recommender.php?id=m10ZYHs7JxgOdD
  *
  */
 
